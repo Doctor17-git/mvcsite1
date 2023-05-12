@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Admin Panel"
+
+AuthUserFile D:/Openserver/domains/mvcsite1/admin/.htpasswd
+Require valid-user
