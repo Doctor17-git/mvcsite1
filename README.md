@@ -1,2 +1,4 @@
 # mvcsite1
-password from admin panel is 555
+creditionals from admin panel
+login: admin
+password: 555
